@@ -1,7 +1,6 @@
 # Hi there! 👋 I'm Garima Saigal 
 
-### AI/ML Enthusiast | Data Science | 
-
+### AI/ML Enthusiast | Data Science | NLP | LLMs | Data Analysis
 🔍 I am a Machine Learning Enthusiast & a final year CS undergrad with a Minor in Artificial Intelligence and Machine Learning. Looking for a dynamic and continuously growing setup to contribute. 
 
 ---
