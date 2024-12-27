@@ -21,7 +21,7 @@
 **B.E. in Computer Science and Engineering**  
 - **Minor in Artificial Intelligence and Machine Learning**  
 - **CGPA**: 8.78 
-- 
+
 
 ---
 
