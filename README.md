@@ -13,7 +13,7 @@
 - **Tools**: Raspberry Pi OS, Arduino IDE, Git, Linux, Jupyter, Colab, UiPath (RPA)
 
 
----
+
 
 ---
 
@@ -35,9 +35,8 @@
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/garimasaigal/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/saigalgarima)  
-[![Email](https://img.shields.io/badge/-Email-critical)](mailto:garimasaigal.work@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue)](https://www.linkedin.com/in/garimasaigal/) [![GitHub](https://img.shields.io/badge/-GitHub-black)](https://github.com/saigalgarima) [![Email](https://img.shields.io/badge/-Email-critical)](mailto:garimasaigal02@gmail.com)
+
 
 ---
 
@@ -46,5 +45,4 @@
 - Leadership in Women in Engineering and IEEE Student Chapters, empowering 150+ members.  
 
 ---
-
-Feel free to fork and star my repositories to explore more! 😊
+"Let's collaborate! Reach out at garimasaigal.work@gmail.com"
