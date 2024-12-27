@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Garima Saigal 
 
-### AI/ML Enthusiast | Data Science| 
+### AI/ML Enthusiast | Data Science | 
 
 🔍 I am a Machine Learning Enthusiast & a final year CS undergrad with a Minor in Artificial Intelligence and Machine Learning. Looking for a dynamic and continuously growing setup to contribute. 
 
@@ -20,7 +20,7 @@
 ## 🎓 Education
 **B.E. in Computer Science and Engineering**  
 - **Minor in Artificial Intelligence and Machine Learning**  
-- **CGPA**: 8.78 (up to 6th semester)  
+- **CGPA**: 8.78 
 - 
 
 ---
